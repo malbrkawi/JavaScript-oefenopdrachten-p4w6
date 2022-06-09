@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(9, 76, 73) !important;
+    font-family: 'Open Sans';
+}
+
+.disable {
+    display: none !important;
+}
+
+.user:hover {
+    cursor: pointer;
+}
+
+.top-35 {
+    top: 35% !important
+}
